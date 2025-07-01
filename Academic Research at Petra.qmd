@@ -9,7 +9,7 @@ The data visualisation in figure 1, represents the various aspects applied to re
 
 The data consists of 23 published studies and illustrates the importance of using multiple categories of evidence to build and develop a coherent picture of Nabataean Petra from 300BCE - 106CE. Representing the data visually allows for patterns to be more easily identified in terms of which categories of evidence have received the most focus and which aspects of research have been introduced as perspectives have advanced.
 
-![FIGURE 1. Perspectives on archaeological studies at Petra from 1935-2022](perspectives%20plot.png){.lightbox fig-align="center"}
+![FIGURE 1. Perspectives on archaeological studies at Petra from 1935-2022](Perspectives on archaeological studies at Petra from 1935-2022.jpg){.lightbox fig-align="center"}
 
 The word cloud in figure 2 is another visual representation of the data that reveals the 75 most frequently used words used across the published studies, which draws out archaeological features and aspects of research at Petra.
 
@@ -20,7 +20,7 @@ In contrast, the same published studies are presented as a listing in table 1, w
 ##### TABLE 1. Key Academic Publications of Research at Petra
 
 | PUBLISHED | TITLE | AUTHOR(S) | EVIDENCE | ASPECT |
-|:---|:---|:---|:---|----|
+|:--------------|:--------------|:--------------|:--------------|---------------|
 | 1935 | The excavation of the Conway High Place at Petra | @albright1935 | Sanctuary | Religion |
 | 1977 | The Capitals from "The Temple of the Winged Lions," Petra | @hammond1977 | Temple | Architecture |
 | 1990 | The Architecture of Petra | @mckenzie1990 | Temple | Architecture |
